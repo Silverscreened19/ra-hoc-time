@@ -1,4 +1,7 @@
 Форматирование даты публикации
+
+[![Build status](https://ci.appveyor.com/api/projects/status/483kvgdiyha0b8nq?svg=true)](https://ci.appveyor.com/project/Silverscreened19/ra-hoc-time)
+[GitHub Pages](https://silverscreened19.github.io/ra-hoc-time/)
 ===
 
 Есть страница, содержащая список видеозаписей.
