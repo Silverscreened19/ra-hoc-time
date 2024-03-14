@@ -3,6 +3,7 @@ import "./App.css";
 import VideoList from "./components/VideoList";
 
 function App() {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [list, _setList] = useState([
     {
       url: "https://www.youtube.com/embed/0xhzwDXfLds?si=NJPG6aZOH_F7tueQ",
